@@ -1,12 +1,12 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 227 
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: Open San Diego + Friends   
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### Using data analysis to determine and characterize transit needs for the elderly and mobility impaired
+##### Then communicating the avaliablilty of needs of transit to the affected population and policy makers 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
